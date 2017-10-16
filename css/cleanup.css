@@ -1,8 +1,8 @@
 /* write your override styles here */
 
-#wall .tag-1 {
+/*#wall .tag-1 {
   display: none;
-}
+}*/
 
 div#wall div#tag-2 {
   display: none;
@@ -23,6 +23,8 @@ div#wall div.parent div:last-child div#tag-6:first-child {
 body div#wall div.parent div > div#tag-7.slick {
   display: none;
 }
+
+
 /*
 body #wall .tag-1 #tag-2{
   display: none;
