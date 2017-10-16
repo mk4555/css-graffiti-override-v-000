@@ -3,6 +3,10 @@
 #wall .tag-1 {
   display: none;
 }
+
+#wall .tag-1 #tage-2 {
+  display: none;
+}
 /*
 body #wall .tag-1 #tag-2{
   display: none;
