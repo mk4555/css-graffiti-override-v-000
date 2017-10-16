@@ -9,7 +9,7 @@ div#wall div#tag-2 {
 }
 
 div#wall #tag-3 div[class="wicked"]{
-  display:none;
+  display: none;
 }
 /*
 body #wall .tag-1 #tag-2{
