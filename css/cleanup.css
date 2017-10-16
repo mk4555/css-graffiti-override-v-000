@@ -11,6 +11,10 @@ div#wall div#tag-2 {
 div#wall div#tag-3.wicked{
   display: none;
 }
+
+div#wall div#parent #tag-5.slick {
+  display: none;
+}
 /*
 body #wall .tag-1 #tag-2{
   display: none;
